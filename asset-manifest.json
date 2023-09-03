@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GoogleSearchReact/static/css/main.ed9db7e4.css",
+    "main.js": "/GoogleSearchReact/static/js/main.5c3273f1.js",
+    "static/js/787.7b744ddc.chunk.js": "/GoogleSearchReact/static/js/787.7b744ddc.chunk.js",
+    "index.html": "/GoogleSearchReact/index.html",
+    "main.ed9db7e4.css.map": "/GoogleSearchReact/static/css/main.ed9db7e4.css.map",
+    "main.5c3273f1.js.map": "/GoogleSearchReact/static/js/main.5c3273f1.js.map",
+    "787.7b744ddc.chunk.js.map": "/GoogleSearchReact/static/js/787.7b744ddc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed9db7e4.css",
+    "static/js/main.5c3273f1.js"
+  ]
+}
